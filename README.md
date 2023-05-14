@@ -1,29 +1,14 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: 한국 성소수자(LGBTQ+)를 위한 건강 정보
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
-
-## Demo
-
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
-
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-## Why Jekyll with GitBook
+한국 퀴어들을 위한 건강 정보들을 모았습니다. 이 프로젝트는 현재 인터넷의 공개된 정보들을 활용해 개인적으로 진행되며, 이 페이지의 내용에 대해 책임지지 않습니다.
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
-
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+<!--cc/
 
 ## How to Get Started
 
@@ -186,3 +171,4 @@ Copyright 2019 Tao He.
 [12]: https://rubygems.org/gems/jekyll-remote-theme
 [13]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 [14]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
+-->
