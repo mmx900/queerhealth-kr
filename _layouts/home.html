@@ -4,10 +4,10 @@
 
         {%- include head.html -%}
 
-        {% assign reversed_posts = site.posts | reverse %}
+        {% assign reversed_pages = site.pages %}
 
-        {% if reversed_posts %}
-            <link rel="next" href="{{site.baseurl}}{{reversed_posts.first.url}}" />
+        {% if reversed_pages %}
+            <link rel="next" href="{{site.baseurl}}{{reversed_pages.first.url}}" />
         {% endif %}
     </head>
     <body>
@@ -31,8 +31,8 @@
                 <div class="body-inner">
                     {%- include body.html -%}
 
-                    {% if reversed_posts %}
-                        <a href="{{site.baseurl}}{{reversed_posts.first.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{reversed_posts.first.title}}">
+                    {% if reversed_pages %}
+                        <a href="{{site.baseurl}}{{reversed_pages.first.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{reversed_pages.first.title}}">
                             <i class="fa fa-angle-right"></i>
                         </a>
                     {% endif %}
