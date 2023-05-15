@@ -9,8 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://mmx900.github.io'
-baseurl:          '/queerhealth-kr'
+url:              'https://queerhealth.kr'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
