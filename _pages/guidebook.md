@@ -8,7 +8,7 @@ layout: post
 
 출간된 가이드북에 대해서는 시기적절성을 판단하기 위한 발행일을 함께 싣습니다.
 
-트랜지션
+트랜스젠더
 -------------
 
 * [TRANS·ROADMAP](http://transroadmap.net/)
