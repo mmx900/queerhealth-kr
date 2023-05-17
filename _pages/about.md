@@ -6,19 +6,27 @@ category: Jekyll
 layout: post
 ---
 
+청소년 상담
+----
+
+* [사단법인 청소년 성소수자 지원센터 띵동](https://www.ddingdong.kr/xe/counsel)
+  > 띵동은 위기상황에 놓인 청소년 성소수자들에게 필요한 서비스를 제공하고 있습니다.
+  > 도움이 필요한 청소년 성소수자들은 언제든지 띵동의 문을 두드릴 수 있습니다. - [위기상담 및 지원](https://www.ddingdong.kr/xe/counsel)
+
 정신 건강 관련 상담
 -------------
 
 * [성소수자알권리보장지원 노스웨스트 호](https://theshipnorthwest.tistory.com)
-    * > 현재 노스웨스트 호는 퀴어 관련 의료/상담/생활/복지 등의 정보를 정리하여 게시하는 활동을 주로 하고있습니다. - [성소수자알권리보장지원 노스웨스트 호란?](https://theshipnorthwest.tistory.com/entry/%EC%84%B1%EC%86%8C%EC%88%98%EC%9E%90%EC%95%8C%EA%B6%8C%EB%A6%AC%EB%B3%B4%EC%9E%A5%EC%A7%80%EC%9B%90-%EB%85%B8%EC%8A%A4%EC%9B%A8%EC%8A%A4%ED%8A%B8-%ED%98%B8%EB%8A%94)
+  > 현재 노스웨스트 호는 퀴어 관련 의료/상담/생활/복지 등의 정보를 정리하여 게시하는 활동을 주로 하고있습니다. - [성소수자알권리보장지원 노스웨스트 호란?](https://theshipnorthwest.tistory.com/entry/%EC%84%B1%EC%86%8C%EC%88%98%EC%9E%90%EC%95%8C%EA%B6%8C%EB%A6%AC%EB%B3%B4%EC%9E%A5%EC%A7%80%EC%9B%90-%EB%85%B8%EC%8A%A4%EC%9B%A8%EC%8A%A4%ED%8A%B8-%ED%98%B8%EB%8A%94)
 * [성소수자 자살예방 프로젝트 마음연결](https://chingusai.net/xe/main_connect) - 전화 및 게시판 상담
-    * > 전화상담은 자살을 고민하는 성소수자와 그러한 성소수자를 돕고 싶어 하는 분들에게 도움을 드립니다. - [전화상담](https://chingusai.net/xe/quick)
+  > 전화상담은 자살을 고민하는 성소수자와 그러한 성소수자를 돕고 싶어 하는 분들에게 도움을 드립니다. - [전화상담](https://chingusai.net/xe/quick)
 * [성소수자와 함께하는 상담사 모임, 다다름](https://vigorous-queen-bc7.notion.site/bd98bf09262d405887286827bdb83fd5)
 
 
 병원
 -------------
 
+* [트랜스젠더에 대한 이해가 있는 일반병원이 있나요? - TRANS·ROADMAP](http://transroadmap.net/transgender-health/)
 * 홈페이지 등에서 성소수자를 명시적으로 언급하고 있는 병원들
   * [살림의료복지사회적협동조합](https://salimhealthcoop.or.kr/clinicinfo)
   >   트랜스젠더, 성소수자들이 정체성을 밝히고 마음 편하게 진료받습니다. - [의원소개](https://salimhealthcoop.or.kr)
@@ -30,7 +38,6 @@ layout: post
   >   생애주기의 관점에서 지정된 성별에 제한 받지 않고 스스로 건강을 돌보는 것과 함께 검진 뿐만 아니라 언제나 편하게 찾아올 수 있고, 필요한 상담과 함께 적절한 정보를 제공 받을 수 있도록 곁에서 함께 늘 노력하는 병원이 되겠습니다. - [메인페이지](https://sdrclinic.modoo.at/)
   * [녹색병원](http://www.greenhospital.co.kr/)
   >   우리나라 최초로 인권치유센터를 개소하여 난민 · 성소수자, 국가폭력피해자 등 의료서비스에서 소외된 사회적 약자를 위해 필요한 의료를 제공하고 있으며, 의료비 지원도 하고 있습니다. - [병원소개](http://www.greenhospital.co.kr/sub07/sub01.php)
-* [트랜스젠더에 대한 이해가 있는 일반병원이 있나요? - TRANS·ROADMAP](http://transroadmap.net/transgender-health/)
 
 HIV/AIDS 관련 상담
 ----
