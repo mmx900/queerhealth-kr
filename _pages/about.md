@@ -36,6 +36,7 @@ layout: post
   {% for hospital in site.data.hospitals %}
     * [{{ hospital.name }}]({{ hospital.url }}) - {{ hospital.location }}
     > {{ hospital.quote }}
+      {% if hospital.review %}* [후기 (노스웨스트 호)]({{ hospital.review }}){% endif %} 
   {% endfor %}
 
 HIV/AIDS 관련 상담
