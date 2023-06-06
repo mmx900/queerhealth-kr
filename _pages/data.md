@@ -10,8 +10,8 @@ layout: post
 ----
 
 {% for book in site.data.books %}
-* [{{book.title}}]({{book.url}}) - {{book.date}} {{book.publisher}}
-  > {{book.summary}} 
+* [{{ book.title }}{% if book.subtitle %} - {{ book.subtitle }}{% endif %}]({{ book.url }}) - {{ book.date }} {% if book.author %}{{ book.author }} / {% endif %} {{ book.publisher }}
+  > {{ book.summary }} 
 {% endfor %}
 
 자료
