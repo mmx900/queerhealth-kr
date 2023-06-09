@@ -17,6 +17,7 @@ layout: post
 자료
 ----
 
+* [성적소수자의 노후인식조사 보고서 - 한국성적소수자문화인권센터](http://kscrc.org/xe/board_hWwy34/19728)
 * [트랜스섹슈얼·트랜스젠더·성별비순응자를 위한 건강관리실무표준 - 세계트랜스젠더보건의료전문가협회(WPATH)](https://rainbowfoundation.co.kr/intro_book/7315)
 
 
