@@ -51,6 +51,8 @@ HIV/AIDS
 * 질병관리청
   * [후천성면역결핍증관리](https://www.kdca.go.kr/contents.es?mid=a20301070501)
 * [행성인 회원을 위한 HIV/AIDS 가이드북](https://lgbtpride.or.kr/xe/index.php?mid=publish&document_srl=68884) - 2015.12.1
+* PrEP(노출 전 예방요법)
+  * [PreP이란? - iSHAP](https://ishap.org/?c=2/62/63)
 
 약물
 -------------
