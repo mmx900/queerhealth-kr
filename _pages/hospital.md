@@ -8,6 +8,7 @@ layout: post
 
 * [성소수자알권리보장지원 노스웨스트 호](https://theshipnorthwest.tistory.com/notice/16)에서는 퀴어프렌들리 병원과 상담센터 정보 및 후기를 제보받아 정리하고 있습니다.
   > 현재 노스웨스트 호는 퀴어 관련 의료/상담/생활/복지 등의 정보를 정리하여 게시하는 활동을 주로 하고있습니다. - [성소수자알권리보장지원 노스웨스트 호란?](https://theshipnorthwest.tistory.com/entry/%EC%84%B1%EC%86%8C%EC%88%98%EC%9E%90%EC%95%8C%EA%B6%8C%EB%A6%AC%EB%B3%B4%EC%9E%A5%EC%A7%80%EC%9B%90-%EB%85%B8%EC%8A%A4%EC%9B%A8%EC%8A%A4%ED%8A%B8-%ED%98%B8%EB%8A%94)
+* [성소수자와함께하는상담사모임, 다다름](https://linktr.ee/QALLY)에서는 퀴어프렌들리 상담사 리스트를 배포중입니다. 
 * [트랜스로드맵](http://transroadmap.net/transgender-health/)에서는 트랜스젠더에 대한 이해가 있는 일반 병원의 목록을 게시중입니다.
 * 다음은 홈페이지에서 명시적으로 성소수자(LGBTQIA+)를 명시하고 있는 병원들입니다.
   {% for hospital in site.data.hospitals %}

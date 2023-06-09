@@ -6,13 +6,14 @@ category: Jekyll
 layout: post
 ---
 
+상담 채널을 가지고 있는 단체 중 성소수자를 명시하거나, 혹은 성소수자 단체들 중 상담 창구를 명시하고 있는 곳들을 소개합니다.
+
 정신 건강
 ----
 
 * [병원 및 상담센터 정보](/pages/hospital/)
 * [성소수자 자살예방 프로젝트 마음연결](https://chingusai.net/xe/main_connect) - 전화 및 게시판 상담
   > 전화상담은 자살을 고민하는 성소수자와 그러한 성소수자를 돕고 싶어 하는 분들에게 도움을 드립니다. - [전화상담](https://chingusai.net/xe/quick)
-* [성소수자와 함께하는 상담사 모임, 다다름](https://vigorous-queen-bc7.notion.site/bd98bf09262d405887286827bdb83fd5)
 
 청소년
 ----
