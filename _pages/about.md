@@ -1,5 +1,5 @@
 ---
-title: 전문가 및 병원
+title: 고민상담
 author: Soyu Kim
 date: 2023-05-14
 category: Jekyll
@@ -21,27 +21,10 @@ layout: post
 정신 건강 관련 상담
 -------------
 
-* [성소수자알권리보장지원 노스웨스트 호](https://theshipnorthwest.tistory.com)
-  > 현재 노스웨스트 호는 퀴어 관련 의료/상담/생활/복지 등의 정보를 정리하여 게시하는 활동을 주로 하고있습니다. - [성소수자알권리보장지원 노스웨스트 호란?](https://theshipnorthwest.tistory.com/entry/%EC%84%B1%EC%86%8C%EC%88%98%EC%9E%90%EC%95%8C%EA%B6%8C%EB%A6%AC%EB%B3%B4%EC%9E%A5%EC%A7%80%EC%9B%90-%EB%85%B8%EC%8A%A4%EC%9B%A8%EC%8A%A4%ED%8A%B8-%ED%98%B8%EB%8A%94)
+* [병원 및 상담센터 정보](/pages/hospital/)
 * [성소수자 자살예방 프로젝트 마음연결](https://chingusai.net/xe/main_connect) - 전화 및 게시판 상담
   > 전화상담은 자살을 고민하는 성소수자와 그러한 성소수자를 돕고 싶어 하는 분들에게 도움을 드립니다. - [전화상담](https://chingusai.net/xe/quick)
 * [성소수자와 함께하는 상담사 모임, 다다름](https://vigorous-queen-bc7.notion.site/bd98bf09262d405887286827bdb83fd5)
-
-
-병원
--------------
-
-* [트랜스젠더에 대한 이해가 있는 일반병원이 있나요? - TRANS·ROADMAP](http://transroadmap.net/transgender-health/)
-* 홈페이지 등에서 성소수자를 명시적으로 언급하고 있는 병원들
-  {% for hospital in site.data.hospitals %}
-    * [{{ hospital.name }}]({{ hospital.url }}) - {{ hospital.location }}
-    > {{ hospital.quote }}
-    {% for review in hospital.reviews %}
-      * [{{ review.title }}]({{ review.url }})
-    {% endfor %}
-  {% endfor %}
-* [PrEP 병원안내 - iSHAP](https://ishap.org/?c=2/62/65) 
-  > PrEP은 HIV 치료가 가능한 병원(주로 감염내과) 등에서 처방받을 수 있습니다. iSHAP은 PrEP을 처방 받을 수 있는 병원과 함께 진료의뢰서 없이 편하게 방문할 수 있거나 원외처방을 통해 PrEP을 처방받을 수 있는 병원을 조사 하고 있습니다. 아래 명단 이외에 원외 처방이 가능한 병원을 알고 있다면 아이샵으로 제보 부탁드립니다.
 
 HIV/AIDS 관련 상담
 ----
