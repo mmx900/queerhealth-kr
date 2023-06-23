@@ -27,3 +27,8 @@ layout: post
 -------------
 
 * [[정우열의 회복] "죽일 거야" 협박에 폭력까지... 성정체성 인정하지 않는 가족에 분노](https://www.hankookilbo.com/News/Read/A2023050310380004627) - 한국일보, 2023.05.08
+
+기타
+----
+
+* [홍준표 대구시장을 위한 성교육](https://www.hani.co.kr/arti/opinion/column/1096544.html) - 한겨레, 2023.06.19
