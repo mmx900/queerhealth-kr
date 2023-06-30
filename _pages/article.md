@@ -32,3 +32,4 @@ layout: post
 ----
 
 * [홍준표 대구시장을 위한 성교육](https://www.hani.co.kr/arti/opinion/column/1096544.html) - 한겨레, 2023.06.19
+* [“언니 봐봐, 여기 진한 두 줄”…국내 첫 임신 동성부부](https://www.hani.co.kr/arti/society/women/1098152.html) - 한겨레, 2023.06.30
