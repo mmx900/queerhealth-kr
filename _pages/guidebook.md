@@ -49,6 +49,11 @@ MPOX
 HIV/AIDS
 -------------
 
+* [HIV/AIDS 정보 사이트 : 아키히브](https://hivaidsinfo.org) - 2023.6.28 오픈
+  > HIV/AIDS 정보사이트: 아카히브'는 HIV/AIDS 관련 정보를 찾는데 어려움을 겪는 모든 사람들을 위해 만들어졌습니다. HIV/AIDS 관련 정보는 여기저기 흩어져있거나 같은 주제라도 다른 정보와 의견이 제시되어 헷갈리기도 합니다. 열심히 정보를 찾다가 에이즈혐오를 마주할 땐 화가 나기도 합니다. 아카히브는 이러한 고민들을 해소하기 위해 만들어졌습니다.
+  'HIV/AIDS 정보사이트: 아카히브'에서는 HIV감염인들이 실제 많이 궁금해하는 질문과 답변을 확인할 수 있습니다. HIV/AIDS에 대한 정확한 정보를 전달하고 HIV감염인의 인권이 제대로 보장되어야한다는 방향성을 제시합니다.
+  현재는 HIV/AIDS 기본정보 및 HIV감염인의 노동권 정보를 우선적으로 확인 하실 수 있습니다. 11월에 예정된 2차 업데이트를 통해 HIV노동권 관련 정책변화 등 최신 동향을 반영하고, HIV감염인의 건강권, 의약품접근권, 성적권리, 전파매개행위죄 폐지의 필요성, 생활정보 등 필요한 정보까지 추가해서 쉽게 볼 수 있도록 할 계획입니다. -
+  [공개하는 글](https://www.facebook.com/R.YPLWHA/posts/pfbid02LZDS8dExEFQbW5a2Hi6iwS7NF5chim1yTq43q7bd6TxFtEHqytikgEgzMgRYXh6Gl)
 * 질병관리청
   * [후천성면역결핍증관리](https://www.kdca.go.kr/contents.es?mid=a20301070501)
 * [행성인 회원을 위한 HIV/AIDS 가이드북](https://lgbtpride.or.kr/xe/index.php?mid=publish&document_srl=68884) - 2015.12.1
