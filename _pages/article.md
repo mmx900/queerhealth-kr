@@ -9,6 +9,8 @@ layout: post
 정보
 -----
 
+* [[인터뷰] 이동환 목사 재판서 증언한 서울대 김승섭 교수](https://www.newsnjoy.or.kr/news/articleView.html?idxno=306099) - 뉴스앤조이, 2024.02.22
+  * 종교적 제목을 가진 기사이지만 보건 전문가의 입장에서 의학계가 성소수자를 '질환자'로 보지 않는 이유, '전환 치료'를 보편적으로 수용할 수 없는 이유 등을 잘 설명하고 있는 기사여서 소개합니다. - 운영자
 * [30년 만에…WHO “트랜스젠더, 정신질환 아니다”](https://www.womennews.co.kr/news/articleView.html?idxno=142782) - 여성신문, 2018.06.19
 
 시리즈
