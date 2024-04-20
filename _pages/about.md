@@ -47,10 +47,10 @@ HIV/AIDS
 * > HIV 확진 이후 삶을 어떻게 이어나갈지 고민이 된다면,
   > 가족과의 갈등이나 학교생활을 하는데 어려움을 겪고 있다면,
   > 병원진료 및 투약과 관련해서 궁금한 점이 있다면 띵동으로 연락주세요. - [HIV감염인 청소년 성소수자 지원](https://www.ddingdong.kr/xe/hiv)
-* [한국청소년·청년감염인커뮤니티알](https://communityr.org/counsel/)
+* [HIV/AIDS인권행동 알](https://action-al.org/counsel/)
   > HIV/AIDS에 대한 혐오나 낙인으로 인해 병원에서의 진료거부, 일터에서의 부당대우 등 인권침해와 차별을 겪고 계시다면?
   > 에이즈예방법 제19조 전파매개행위금지조항으로 인해 힘든 상황을 겪고 계시다면?
-  > 부담없이 아래의 연락처 혹은 이메일을 통해 상담문의주세요! - [상담안내](https://communityr.org/counsel/)
+  > 부담없이 아래의 연락처 혹은 이메일을 통해 상담문의주세요! - [상담안내](https://action-al.org/counsel/)
 * [한국HIV/AIDS감염인연합회 KNP+](https://knpplus.org/counseling)
   > KNP+는 일상생활에서 어려움을 겪는 감염인 분들을 지원하고자 상담을 진행합니다.
   > 동료 감염인 상담을 기본으로 하여 확진 초기의 고민을 함께 풀어갑니다.
