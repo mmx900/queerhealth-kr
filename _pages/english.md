@@ -6,6 +6,11 @@ category: Jekyll
 layout: post
 ---
 
+Community
+----
+
+* [Queer Korea Information & Community Board](https://www.facebook.com/groups/559595980828306)
+  > Queer Korea Information & Community is a Facebook group that was created in 2014 by Korean queer artist and social activist Heezy Yang. This is where the English-speaking members of LGBTQ+ community share information, and communicate and connect with each other. - [Information](https://www.facebook.com/groups/559595980828306)
 
 Counseling
 ----
