@@ -6,6 +6,11 @@ category: Jekyll
 layout: post
 ---
 
+Article
+----
+* [Brief Hospital Guide for Non-Korean Queers - Seoul Edition](https://www.lgbtnewskorea.com/en/post/inclusivehospitals-2)
+  > We would like to share some queer-friendly medical clinics, hoping to help various non-Koreans who live in South Korea. - [Guide](https://www.lgbtnewskorea.com/en/post/inclusivehospitals-2)
+
 Community
 ----
 
@@ -18,6 +23,6 @@ Counseling
 * [Korea Federation for HIV/AIDS Prevention(한국에이즈퇴치연맹)](https://www.khap.org/)
   > KHAP stands for Korea HIV/AIDS Prevention center, and we provide free and anonymous HIV/AIDS and STI testing for foreigners who reside in Korea. - [Introduction](https://www.khap.org/sub/sub01_01.php)
 
-Article
+Etc
 ----
 * [LGBT health in South Korea - Wikipedia](https://en.wikipedia.org/wiki/LGBT_health_in_South_Korea)
