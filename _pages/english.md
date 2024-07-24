@@ -11,6 +11,11 @@ Article
 * [Brief Hospital Guide for Non-Korean Queers - Seoul Edition](https://www.lgbtnewskorea.com/en/post/inclusivehospitals-2)
   > We would like to share some queer-friendly medical clinics, hoping to help various non-Koreans who live in South Korea. - [Guide](https://www.lgbtnewskorea.com/en/post/inclusivehospitals-2)
 
+Pregnancy
+----
+* [To you who are concerned "Together By Your Side"
+](https://www.byyourside-share.org/?lang=en)
+
 Community
 ----
 
