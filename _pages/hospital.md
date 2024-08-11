@@ -21,8 +21,3 @@ layout: post
 * [iSHAP](https://ishap.org/?c=2/62/65)에서는 PrEP 처방을 받을 수 있는 병원의 목록을 게시중입니다. 
   > PrEP은 HIV 치료가 가능한 병원(주로 감염내과) 등에서 처방받을 수 있습니다. iSHAP은 PrEP을 처방 받을 수 있는 병원과 함께 진료의뢰서 없이 편하게 방문할 수 있거나 원외처방을 통해 PrEP을 처방받을 수 있는 병원을 조사 하고 있습니다. 아래 명단 이외에 원외 처방이 가능한 병원을 알고 있다면 아이샵으로 제보 부탁드립니다. - [PrEP 병원안내](https://www.ishap.org/content/prevention_05)
 * [iSHAP](https://www.ishap.org/forum_02)에서는 또한 엠폭스(MPOX) 백신 접종 가능 병원과 다양한 정보를 제공합니다.
-
-소식
-----
-
-[[모집] 부산지역 청소년 성소수자 정신의료 정보접근권 조사단을 찾습니다.](https://www.facebook.com/onlyasunaro/posts/pfbid035fKgfKFkZDhXkHe4zPXs3ifgubuhpg47UBVDWACGwsiXxDQQRvDyArATLAs1Tjd1l) - 부산어린이퀴어센터 2024.05.15
