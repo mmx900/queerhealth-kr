@@ -25,7 +25,8 @@ layout: post
 부모
 ----
 
-* [성소수자부모모임 상담신청](https://www.pflagkorea.org/%EC%83%81%EB%8B%B4%EC%8B%A0%EC%B2%AD)
+* [성소수자부모모임 상담](https://www.pflagkorea.org/advice)
+  > 성소수자와 관련된 문의는 모두 받고 있습니다. 성소수자뿐만 아니라 성소수자 당사자의 가족, 친구 등 성소수자와 관련된 문의라면 언제든 환영합니다. - [상담](https://www.pflagkorea.org/advice)
 
 노동
 ----
