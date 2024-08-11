@@ -48,7 +48,7 @@ MPOX
 * 질병관리청
   * [엠폭스(원숭이두창)](https://www.kdca.go.kr/contents.es?mid=a20108010000) 
 * 아이샵(isharp)
-  * [MPOX 백신 예방접종 관련 안내](https://www.ishap.org/?c=67/68) 
+  * [MPOX 백신 예방접종 관련 안내](https://www.ishap.org/forum_02) 
 * HIV/AIDS 인권활동가 네트워크
   * [엠폭스, 퀴어 커뮤니티에 전하는 이야기](http://notacrime-hiv.org/?p=1654) - 2023.4.18
   * [퀴어 커뮤니티를 위한 엠폭스(원숭이두창) 가이드](http://notacrime-hiv.org/?p=1656) - 2023.4.18
@@ -66,7 +66,7 @@ HIV/AIDS
   * [후천성면역결핍증관리](https://www.kdca.go.kr/contents.es?mid=a20301070501)
 * [행성인 회원을 위한 HIV/AIDS 가이드북](https://lgbtpride.or.kr/xe/index.php?mid=publish&document_srl=68884) - 2015.12.1
 * PrEP(노출 전 예방요법)
-  * [PreP이란? - iSHAP](https://ishap.org/?c=2/62/63)
+  * [PreP이란? - iSHAP](https://www.ishap.org/content/prevention_05)
 
 약물
 -------------
