@@ -42,9 +42,11 @@ layout: post
 
 HIV/AIDS
 ----
-* [iSHAP 상담실](https://www.ishap.org/?c=4/23)
+* [iSHAP 상담실](https://www.ishap.org/content/counsel_01)
+  > 상담은 상담신청자의 신원에 대한 철저한 비밀보장을 원칙으로 합니다. 상담사는 HIV / AIDS상담 교육을 이수한 전문상담사들이며, 또한 성소수자이므로 보다 편안하게 신뢰감을 가지고 상담을 의뢰할 수 있으실 것입니다.
+  > ISHAP 상담실은 HIV / AIDS에 대한 여러분의 궁금증과 불안감을 풀어드리는 친근한 벗으로서 항상 힘이 될 것을 약속드립니다. - [상담실 안내](https://www.ishap.org/content/counsel_01)
 * [사단법인 청소년 성소수자 지원센터 띵동](https://www.ddingdong.kr/xe/hiv)
-* > HIV 확진 이후 삶을 어떻게 이어나갈지 고민이 된다면,
+  > HIV 확진 이후 삶을 어떻게 이어나갈지 고민이 된다면,
   > 가족과의 갈등이나 학교생활을 하는데 어려움을 겪고 있다면,
   > 병원진료 및 투약과 관련해서 궁금한 점이 있다면 띵동으로 연락주세요. - [HIV감염인 청소년 성소수자 지원](https://www.ddingdong.kr/xe/hiv)
 * [HIV/AIDS인권행동 알](https://action-al.org/counsel/)
