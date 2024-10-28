@@ -56,6 +56,10 @@ HIV 감염인의 장애인 인정을 위한 행정소송이 진행중입니다.
 
 * [국가 통계에도 없는 성소수자…인권위 “조사항목 신설해야” - 한겨레, 2022-03-21](https://www.hani.co.kr/arti/society/society_general/1035614.html)
 
+또한 정부의 자살 예방 대책에서 성소수자의 자살 예방 대책을 마련할 것을 촉구합니다.
+
+* ["성소수자 자살 예방책은 왜 없나" - 경향신문, 2024.09.10](https://www.khan.co.kr/national/national-general/article/202409102136015)
+
 기타
 ----
 
