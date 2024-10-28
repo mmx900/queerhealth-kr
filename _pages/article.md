@@ -28,6 +28,7 @@ layout: post
 노년·노후·나이듦
 -------------
 
+* [나이듦 인터뷰 - 큐라이프센터](https://qlifecenter.campaignus.me/interview)
 * [성소수자, ‘나이듦’을 이야기하다 - 네팔, 대만, 일본, 태국, 한국 ‘성소수자의 노후’에 관한 컨퍼런스](https://www.ildaro.com/9725) - 일다, 2023.09.18
 
 상담사례
