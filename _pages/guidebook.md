@@ -45,6 +45,10 @@ layout: post
 -------------
 * [성소수자 청소년 상담 가이드라인 - 서울대학교 청소년 성소수자 연구회 아이리스](https://irislab.weebly.com/irislabweebly.html) - 2021.12.14([같이가치](https://together.kakao.com/fundraisings/81348/news))
 
+자살예방
+----
+* [2022년 서울시자살예방센터 성소수자 상담 가이드](http://seoulymind.org/2022%eb%85%84-%ec%84%9c%ec%9a%b8%ec%8b%9c%ec%9e%90%ec%82%b4%ec%98%88%eb%b0%a9%ec%84%bc%ed%84%b0-%ec%84%b1%ec%86%8c%ec%88%98%ec%9e%90-%ec%9e%90%ec%82%b4%ec%98%88%eb%b0%a9-%ec%83%81%eb%8b%b4-%ea%b0%80/) - 서울시 청년 자살예방 플랫폼
+
 임신
 -------------
 * [고민하고 있는 당신에게 "곁에 함께,"](https://www.byyourside-share.org/) - 임신의 유지·중지에 관한 지원 정보를 안내하는 반응형 웹페이지
