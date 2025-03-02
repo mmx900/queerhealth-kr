@@ -24,6 +24,8 @@ layout: post
 * [이래서 꼭 필요하죠…성소수자 의료 교육](https://www.khan.co.kr/national/gender/article/202212052134005) - 경향신문, 2022.12.05 
 * [병원에는 아직 무지개가 뜨지 않았다](http://m.sjournal.kr/news/articleView.html?idxno=4855) - 지속가능저널, 2022.10.11
 * [질병보다 편견이 더 두려운 성소수자, 차별 없는 병원이 필요하다](https://inews.ewha.ac.kr/news/articleView.html?idxno=70472) - 이대학보, 2022.10.3
+* [무지개 아래 모인 한의사들 “마음 드러낸 성소수자에게 한 발 더 가까운 진료를”](https://www.khan.co.kr/article/202410091431001) - 경향신문, 2024.10.09
+  * [홍진단 인스타그램](https://www.instagram.com/queer_kmed/)
 
 노년·노후·나이듦
 -------------
