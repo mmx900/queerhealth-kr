@@ -27,6 +27,11 @@ layout: post
 * [무지개 아래 모인 한의사들 “마음 드러낸 성소수자에게 한 발 더 가까운 진료를”](https://www.khan.co.kr/article/202410091431001) - 경향신문, 2024.10.09
   * [홍진단 인스타그램](https://www.instagram.com/queer_kmed/)
 
+노동
+----
+
+* [노동하는 성소수자의 정신건강 연구, 우리의 일터를 더 건강하게](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003108123) - 오마이뉴스, 2025.03.05
+
 노년·노후·나이듦
 -------------
 
