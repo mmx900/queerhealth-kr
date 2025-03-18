@@ -14,6 +14,8 @@ layout: post
 * [병원 및 상담센터 정보](/pages/hospital/)
 * [성소수자 자살예방 프로젝트 마음연결](https://chingusai.net/xe/main_connect) - 전화 및 게시판 상담
   > 전화상담은 자살을 고민하는 성소수자와 그러한 성소수자를 돕고 싶어 하는 분들에게 도움을 드립니다. - [전화상담](https://chingusai.net/xe/quick)
+* [성소수자 대상 집단상담 대화의 만찬](https://chingusai.net/xe/index.php?mid=notice&page=1&document_srl=642717)
+  > 성소수자 대상 집단상담  ‘대화의 만찬’은 친구사이 '커뮤니티 사귐 프로젝트'와 '무지개심리상담소'가 성소수자들을 집단원으로 구성하여 진행하는 집단상담 프로그램입니다. - [대화의 만찬 - 20~30대 (남성동성애자) 고민 털기 2025-1차 참가자 모집](https://chingusai.net/xe/index.php?mid=notice&page=1&document_srl=642717)
 
 청소년
 ----
