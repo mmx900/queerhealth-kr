@@ -30,6 +30,7 @@ layout: post
 노동
 ----
 
+* [성소수자 노동자 4명 중 1명 우울 증상…“일터 내 차별 영향”](https://www.hani.co.kr/arti/society/women/1189497.html) - 한겨레, 2025.03.28
 * [노동하는 성소수자의 정신건강 연구, 우리의 일터를 더 건강하게](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003108123) - 오마이뉴스, 2025.03.05
 
 노년·노후·나이듦
