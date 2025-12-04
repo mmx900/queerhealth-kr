@@ -20,6 +20,9 @@ layout: post
 
 * [에브리바디 플레져랩](https://srhr.kr/55)
   > 셰어의 "에브리바디 플레져랩" 팀은 나이, 성별, 장애, 성적지향과 성별정체성, 인종, 언어 등 각자가 가진 특성에 맞춘 최선의 방법으로, 위험에 대처하는 것에서 끝나지 않고 즐거움에 대해서 알아가는 성교육을 지향합니다.
+* [항문섹스편❤️ - 무엇이든 물어보셰어](https://srhr.kr/SRHR01/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=161043254&t=board&category=S6n373S2X7) 2025.04.09
+  > <무엇이든 물어보셰어> 공개토크는 각각의 주제에 대해서 사연을 나누고 싶은 사람들이 모여 허심탄회한 이야기를 나누는 자리로 진행되었습니다. 더 많은 사람들과 정보를 공유하기 위해 셰어는 행사를 공동주최한 한국농인LGBT+와 함께 각각의 주제에서 나눈 이야기들을 카드뉴스와 수어 컨텐츠로 만들어 전합니다.
+* [즐겁고 안전한 항문섹스를 하는 방법 - SRHR101](https://srhr.kr/SRHR01/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=49975697&t=board&category=S6n373S2X7) 2024.07.23
 
 트랜스젠더
 -------------
@@ -43,12 +46,16 @@ layout: post
 남성
 ----
 
+* [오늘, 섹스하고 싶은 당신을 위한 게이/MSM 섹스 안내서 🌈](https://lgbtpride.or.kr/xe/notice/1936532) 2025.12.01
+  > 즐거운 관계를 만들고 지속하기 위해서 어떤 것을 양보하거나 지켜야 할까요? 행동하는성소수자인권연대 HIV/AIDS인권팀에서 여러분에게 메세지를 건넵니다.
 * [성소수자 남성을 위한 성교육: 센조이, 항문질환, 성매개감염병 - 행성인 웹진](https://lgbtpride.tistory.com/1979) 2024.09.24
   > 행사를 위해 자료를 모으고 정리하며 가장 크게 느낀 점은 아직까지도 성소수자 행동양태 연구가 너무나 부족하고, 성행동(Sexual behavior)에 대해 의학적으로 알려지지 않은 것이 너무나 많다는 것이었다. 앞으로 더 많은 연구가 진행되고, 사람들이 자신에게 맞는 성교육을 더 쉽게 접할 수 있는 날이 오기를 바라며 이 글을 정리한다.
 
 청소년
 -------------
 * [성소수자 청소년 상담 가이드라인 - 서울대학교 청소년 성소수자 연구회 아이리스](https://irislab.weebly.com/irislabweebly.html) - 2021.12.14([같이가치](https://together.kakao.com/fundraisings/81348/news))
+* [청소년도 콘돔을 살 수 있을까? (드럭스토어 편) - SRHR101](https://srhr.kr/SRHR01/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=17345104&t=board&category=S6n373S2X7) 2023.12.22
+* [청소년도 콘돔을 살 수 있을까? (편의점 편) - SRHR101](https://srhr.kr/SRHR01/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=17334093&t=board&category=S6n373S2X7) 2023.12.21
 
 자살예방
 ----
