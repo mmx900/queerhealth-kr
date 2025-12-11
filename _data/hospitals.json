@@ -37,13 +37,19 @@
   },
   {
     "name": "색다른의원",
-    "url": "https://sdrclinic.modoo.at/",
+    "url": "https://blog.naver.com/sdrclinic22",
     "quote": "생애주기의 관점에서 지정된 성별에 제한 받지 않고 스스로 건강을 돌보는 것과 함께 검진 뿐만 아니라 언제나 편하게 찾아올 수 있고, 필요한 상담과 함께 적절한 정보를 제공 받을 수 있도록 곁에서 함께 늘 노력하는 병원이 되겠습니다. - [메인페이지](https://sdrclinic.modoo.at/)",
     "location": "[서울시 동작구](https://sdrclinic.modoo.at/)",
     "reviews": [
       {
         "title": "방문 후기(행성인 웹진)",
         "url": "https://lgbtpride.tistory.com/1813"
+      }
+    ],
+    "sns": [
+      {
+        "title": "인스타그램",
+        "url": "https://www.instagram.com/sdr.clinic/"
       }
     ]
   },
