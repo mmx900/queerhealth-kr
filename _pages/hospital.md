@@ -18,6 +18,9 @@ layout: post
     {% for review in hospital.reviews %}
       * [{{ review.title }}]({{ review.url }})
     {% endfor %}
+    {% for sns in hospital.sns %}
+      * [{{ sns.title }}]({{ sns.url }})
+    {% endfor %}
   {% endfor %}
 * [레드리본 사회적 협동조합](http://bighands.or.kr/business/dental.php)에서는 HIV 감염인도 예외없는 모두의 치과를 운영합니다.
 * [iSHAP](https://ishap.org/?c=2/62/65)에서는 PrEP 처방을 받을 수 있는 병원의 목록을 게시중입니다. 
