@@ -91,6 +91,8 @@ HIV/AIDS
   'HIV/AIDS 정보사이트: 아카히브'에서는 HIV감염인들이 실제 많이 궁금해하는 질문과 답변을 확인할 수 있습니다. HIV/AIDS에 대한 정확한 정보를 전달하고 HIV감염인의 인권이 제대로 보장되어야한다는 방향성을 제시합니다.
   현재는 HIV/AIDS 기본정보 및 HIV감염인의 노동권 정보를 우선적으로 확인 하실 수 있습니다. 11월에 예정된 2차 업데이트를 통해 HIV노동권 관련 정책변화 등 최신 동향을 반영하고, HIV감염인의 건강권, 의약품접근권, 성적권리, 전파매개행위죄 폐지의 필요성, 생활정보 등 필요한 정보까지 추가해서 쉽게 볼 수 있도록 할 계획입니다. -
   [공개하는 글](https://www.facebook.com/R.YPLWHA/posts/pfbid02LZDS8dExEFQbW5a2Hi6iwS7NF5chim1yTq43q7bd6TxFtEHqytikgEgzMgRYXh6Gl)
+* 아이샵
+  * [HIV 감염인이 되면](https://www.ishap.org/content/infor_02)
 * 질병관리청
   * [후천성면역결핍증관리](https://www.kdca.go.kr/contents.es?mid=a20301070501)
 * [행성인 회원을 위한 HIV/AIDS 가이드북](https://lgbtpride.or.kr/xe/index.php?mid=publish&document_srl=68884) - 2015.12.1
