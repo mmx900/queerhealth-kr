@@ -9,6 +9,7 @@ layout: post
 성소수자 건강과 관련한 이런저런 행사들입니다.
 
 * [한국성적소수자문화인권센터 - 퀴어와 앨라이를 위한 감정카드와 앨라이책자 텀블벅 모금](https://tumblbug.com/queeercard) (~2026/01/16)
+* [친구사이 - **성소수자 사별자 자조집단 '무지개 너머의 시간'**](https://chingusai.net/xe/notice/654424) (2025/12/19)
 * [모두를 위한 통합돌봄 : HIV 감염인 돌봄을 위한 안내서 발간 기념 간담회](https://knpplus.org/notice/?bmode=view&idx=168805484) (2025/12/16)
 * [HIV/AIDS 인권행동 알 - **'알집', 절대 지켜!** 모금 프로젝트](https://www.socialfunch.org/Keep_the_ALJIB) (~2025/12/10)
 * [우리의 삶을 국가 정책에 제대로 입력하기 - 동성부부·성소수자 가족 2025 인구주총조사 참여방법 안내](https://www.facebook.com/marriageforall.kr/posts/pfbid08SHuAmK9epYFp7BxAGQcVtDHYPuUn28x86FJEBFTUo2mrBDj5GpnwS3xkduoAxcql) (~2025/11/18)
