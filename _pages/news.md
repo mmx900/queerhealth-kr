@@ -8,6 +8,10 @@ layout: post
 
 성소수자 건강과 관련한 이런저런 행사들입니다.
 
+* [@queer_map_kr - 퀴어프렌들리 병의원 및 심리상담기관 안내를 위한 제보 모집](https://x.com/queer_map_kr)
+
+#### 아카이브
+
 * [한국성적소수자문화인권센터 - 퀴어와 앨라이를 위한 감정카드와 앨라이책자 텀블벅 모금](https://tumblbug.com/queeercard) (~2026/01/16)
 * [친구사이 - **성소수자 사별자 자조집단 '무지개 너머의 시간'**](https://chingusai.net/xe/notice/654424) (2025/12/19)
 * [모두를 위한 통합돌봄 : HIV 감염인 돌봄을 위한 안내서 발간 기념 간담회](https://knpplus.org/notice/?bmode=view&idx=168805484) (2025/12/16)
