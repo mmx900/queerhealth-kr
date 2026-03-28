@@ -99,6 +99,11 @@ HIV/AIDS
 * PrEP(노출 전 예방요법)
   * [PreP이란? - iSHAP](https://www.ishap.org/content/prevention_05)
 
+성병
+-------------
+* [트리코피톤 멘타그로피테스 7형(TMVII)에 대해 알아야 할 모든 것](https://www.them.us/story/new-fungal-sti-quietly-emerging-what-is-tmvii)
+  * 영문 기사이지만 구글 크롬의 내장 번역 기능을 사용해 무난히 읽을 수 있습니다.
+
 약물
 -------------
 * [캠섹스 가이드북](https://chemsexsupportkorea.cargo.site/)
